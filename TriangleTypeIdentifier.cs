@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class TriangleTypeIdentifier
 {
     static void Main(string[] args)
     {
