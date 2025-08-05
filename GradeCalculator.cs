@@ -1,4 +1,4 @@
-﻿class Program
+﻿class GradeCalculator
 {
     static void Main(string[] args)
     {
